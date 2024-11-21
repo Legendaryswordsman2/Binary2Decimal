@@ -1,0 +1,81 @@
+        button {
+            background-color: darkred;
+            color: white;
+            padding: 10px 30px;
+            border-radius: 10px;
+            border: 1px solid gray;
+            font-size: 30px;
+        }
+
+        button:hover {
+            background-color: red;
+        }
+
+        button:active {
+            background-color: #323;
+        }
+
+        body {
+            /* display: flex;
+            justify-content: center; Center horizontally */
+            background-color: #565972;
+        }
+
+        .converterBackground {
+            /* background-color: #3a3a50; */
+            /* border-color: black; */
+            /* border-style: solid; */
+            display: block;
+            text-align: center;
+            align-content: center;
+        }
+
+        .divBackground{
+            display: inline-block;
+            background-color: #3a3a50;
+            border-color: black;
+            border-style: solid;
+            padding: 10px;
+        }
+
+        input{
+            font-size: 30px;
+        }
+
+        h1{
+            color: #f8f8f8;
+            font-size: 50px;
+        }
+        
+        p{
+            color: #f8f8f8;
+            font-size: 30px;
+        }
+
+        input{
+            text-align: center;
+        }
+
+        a{
+            color: white;
+            /* display: block; */
+            background-color: #3a3a50;
+            padding: 5px 10px;
+            border-style: solid;
+            border-color: black;
+            font-size: 30px;
+        }
+
+        .challengeLink{
+            display: block;
+            text-align: center;
+        }
+
+        .Result{
+            background-color: #64b63b;
+            padding: 5px 10px;
+            border-color: #282828;
+            border-radius: 10px;
+            border-style: solid;
+            display: inline-block;
+        }
